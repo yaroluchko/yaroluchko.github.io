@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+Hi, I'm Yaro Luchko, an MEng student at MIT. I'm starting this page as a way to keep track of my learning process and be more intentional with taking lecture notes. In my free time I like to play video games (mostly Overwatch 2 and Osu!), work out, listen to music, and tinker with coding projects.
