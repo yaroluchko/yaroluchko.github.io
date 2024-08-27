@@ -6,10 +6,10 @@
 lang: "en"
 
 # Name of your site (displayed in the header)
-title: Yaro Luchko 
+title: Yaro Luchko
 
 # Short bio or description (displayed in the header)
-description: MIT MEng student 
+description: MIT MEng student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -45,10 +45,6 @@ footer_links:
     url: feed.xml
     icon: fa fa-rss-square
 
-  - title: Twitter
-    url: https://twitter.com/jekyllrb
-    icon: fa fa-twitter-square
-
   - title: GitHub
     url: https://github.com/forever-jekyll
     icon: fa fa-github-square
@@ -57,7 +53,7 @@ footer_links:
 #copyright: "This site is made with <3 by *me, myself, and I*."
 
 # Time zone
-timezone: null
+timezone: America/New_York
 
 # Excerpt separator
 excerpt_separator: <!--more-->
