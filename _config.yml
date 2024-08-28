@@ -31,10 +31,10 @@ baseurl: ""
 # Navigation menu
 navigation_links:
   - title: Blog
-    url: /
+    url: /blog
 
   - title: About
-    url: /about
+    url: /
 
   - title: Search
     url: /search
@@ -46,7 +46,7 @@ footer_links:
     icon: fa fa-rss-square
 
   - title: GitHub
-    url: https://github.com/forever-jekyll
+    url: https://github.com/yaroluchko
     icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
