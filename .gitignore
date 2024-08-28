@@ -1,0 +1,8 @@
+# Ignore the Gemfile.lock file
+Gemfile.lock
+
+# Ignore the _site folder and everything in it
+_site/
+
+# Ignore the .sass_cache folder and everything in it
+.sass-cache/
