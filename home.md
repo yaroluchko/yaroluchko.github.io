@@ -6,9 +6,7 @@ permalink: /
 
 Hi, I'm Yaro Luchko, an MEng student at MIT. I'm starting this page as a way to keep track of my learning process and to be more intentional with taking lecture notes. In my free time I like to play video games (mostly Overwatch 2 and Osu!), work out, listen to music, and tinker with coding projects.
 
-## Experience
-
-You can find my resume [here](assets/docs/Yaro_Luchko_Resume.pdf).
+## [Resume](assets/docs/Yaro_Luchko_Resume.pdf)
 
 ### TL;DR
 I'm currently a TA for [6.100A/B/L](https://introcomp.mit.edu/).
