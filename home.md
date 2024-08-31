@@ -8,14 +8,17 @@ Hi, I'm Yaro Luchko, an MEng student at MIT. I'm starting this page as a way to 
 
 ## Experience
 
-I'm currently a TA for [6.100A/B/L](https://introcomp.mit.edu/)
+You can find my resume [here](assets/docs/Yaro_Luchko_Resume.pdf).
+
+### TL;DR
+I'm currently a TA for [6.100A/B/L](https://introcomp.mit.edu/).
 
 I've worked as an intern at:
 
 - **Amazon Web Services**
   - Enabled shared keychain compatibility in the Amplify Swift library to allow the sharing of authentication sessions
 - **Recovering Bro Tech**
-  - NDA
+  - Created UI components for time-selection, surveys, and user-profile editing
 - **Capital One**
   - Migrated core components of the Capital One android app to use Jetpack Compose instead of XML views and layouts
 - **Lincoln Financial**
