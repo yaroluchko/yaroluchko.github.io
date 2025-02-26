@@ -40,6 +40,9 @@ navigation_links:
   - title: Search
     url: /search
 
+  - title: Web Audio
+    url: /web-audio
+
 # Footer icons
 footer_links:
   - title: Feed
